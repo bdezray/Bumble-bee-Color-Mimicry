@@ -78,12 +78,16 @@ Script List:
 
 a.	ExtractCellValuesbyPoint.R
 This script contains code for making the raster and extracting raster grid cell values by locality point data. 
+
 b.	PlotPolymorphicSpeciesDistributions.R
 This script contains code for plotting a map of the United States with state boundaries and point data depicting color morph information. 
+
 c.	BioclimtoASC.R
 This script contains code for clipping and converting .tiff files to .asc files. 
+
 d.	Plot_Raster.R
 This script contains code to create the following raster maps: Perceptual Color Average, Perceptual Color Average w/o Declining Species, and Average Color Forms. 
+
 e.	MantelTest and Tanglegram.R
 This script contains code to organize two distance matrices to use for the Mantel Test and to create a tanglegram, plot distance matrices as dendrograms, run the Mantel Test, and create a tanglegram between two dendrograms. 
 
